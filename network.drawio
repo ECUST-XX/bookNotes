@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T15:51:36.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.9.0" etag="lfc-_8N6khKAeDbo_1Vq" type="github"><diagram id="r8e_z1FbKDkasg80N4DU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T16:09:37.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ePQ1VQ5j8gB8YjR8lNQp" version="13.9.0" type="github" pages="3">
+  <diagram id="r8e_z1FbKDkasg80N4DU" name="Page-1">
+    <mxGraphModel dx="713" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-1" value="交换方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-4" value="电路交换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-6" value="分组交换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-8" value="报文交换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-11" value="使用者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-12" value="公用网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-13" value="专用网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-14" value="介质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-15" value="有线网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-16" value="无线网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-17" value="覆盖范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-18" value="广域网WAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-19" value="局域网LAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-20" value="城域网MAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-25" value="个域网PAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-26" value="拓扑结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="504" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-27" value="总线型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-28" value="环形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-29" value="星型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2x2Sq_Qcwi34DmVUf_H-30" value="网状型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="704" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8Dqx1fesJH5tM-v8tVQJ" name="Page-2">
+    <mxGraphModel dx="862" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-0" />
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-1" parent="i29UJ0QWBRpgawH6f_eN-0" />
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-2" value="速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-3" value="带宽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-4" value="吞吐量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-5" value="时延" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-6" value="时延带宽积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-7" value="往返时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-8" value="利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i29UJ0QWBRpgawH6f_eN-9" value="丢包率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i29UJ0QWBRpgawH6f_eN-1">
+          <mxGeometry x="110" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Mnr9zTh-fBTOu2GaXtz-" name="Page-3">
+    <mxGraphModel dx="733" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="zZj2jakt_oPW3JQYl4ay-0" />
+        <mxCell id="zZj2jakt_oPW3JQYl4ay-1" parent="zZj2jakt_oPW3JQYl4ay-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
